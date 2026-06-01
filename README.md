@@ -1,6 +1,16 @@
-# Regex Text Analyzer (C++)
+# Pulse Technologies: Headless Data Ingestion Node (v1.0.5)
 
-This project demonstrates the use of regular expressions in C++.
+### 🔱 Forked from the Regex Text Analyzer Framework by Alexa
+
+> **Operational Directive:** "Secure your network baseline. Extract the signal. Trade as a Human."
+
+---
+
+## 👁️ The Evolution: Adding Our Style
+
+This repository is built on top of the excellent baseline framework created by Alexa Sidash. Her original Regex Text Analyzer provides a rock-solid, highly functional tool for scanning text files and neatly filtering out patterns like emails, phone numbers, and dates. 
+
+We took that great foundation and added a few architectural tweaks to match our style and support a **Headless Data Ingestion Node** workflow for the network.
 
 ## Features
 - Detects email addresses
