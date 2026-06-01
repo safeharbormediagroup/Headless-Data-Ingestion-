@@ -38,3 +38,5 @@ Hello!
 Contact: support@example.com
 Date: 12/03/2026
 Phone: +380991234567
+
+Original Framework: A massive thank you to Alexa Sidash for the fantastic foundational regex text scanner patterns. Her original project made building out this upgrade incredibly smooth (and she definitely writes cleaner code than I do). 😊⚡️
